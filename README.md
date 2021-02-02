@@ -11,7 +11,7 @@
 #### Publications
 
 - 유럽 프로축구팀 경기력의 군집분석, **Do Min Kim**, Hyongjun Choi, Dankook Univ, 2020. [[paper](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=9aba5683f3f30388ffe0bdc3ef48d419)]
-- 잉글랜드 프리미어리그 공식기록으 통한 경기력의 군집분석, **Do Min Kim**, Hyongjun Choi, 한국체육과학회, 2019. [[paper](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=9aba5683f3f30388ffe0bdc3ef48d419)]
+- 잉글랜드 프리미어리그 공식기록으 통한 경기력의 군집분석, **Do Min Kim**, Hyongjun Choi, 한국체육과학회, 2019. [[paper](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=a24b63d5221419beb7998d826d417196)]
 
 #### Interest
 - NLP
